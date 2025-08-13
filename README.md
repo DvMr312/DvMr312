@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DvMr312</h1>
-<h3 align="center">I'm a young pentester with a passion for technology and ethical hacking.</h3>
+<h3 align="center">I'm a young pentester with a passion for technology, cyber-security and ethical hacking.</h3>
 <img align="right" alt="eyesbin" width="120" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvmr312&label=Profile%20views&color=0e75b6&style=flat" alt="dvmr312" /> </p>
@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 - - 🔭 I’m currently working on **Kali Linux**
+  - - My goal is to become a skilled pentester and get involved in the world of cybersecurity.
 <p align="left">
 </p>
 
