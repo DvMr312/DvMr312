@@ -36,7 +36,6 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> MongoDB
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySQL
 
-            <link rel="stylesheet" type='text/css'  />
           
 ---
 
@@ -48,12 +47,6 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvmr312&" alt="dvmr312" />
 </p>
-
----
-
-### 📜 Projects & Contributions
-- **[My Pentesting Projects](https://github.com/dvmr312/pentesting)** - Collection of my pentesting work and challenges.
-- **[Cybersecurity Research](https://github.com/dvmr312/research)** - Notes and research on different cybersecurity topics.
 
 ---
 
