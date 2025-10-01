@@ -47,6 +47,10 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvmr312&" alt="dvmr312" />
 </p>
+#### 🏆 Certifications & Achievements
+- ![HackerRank Badge](https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen)
+- ![Pentester Badge](https://img.shields.io/badge/Certified%20Pentester-Yes-brightblue)
+- ![GitHub Copilot](https://img.shields.io/badge/Active%20Contributor-Yes-orange)
 
 ---
 
