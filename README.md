@@ -29,7 +29,7 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
 
 #### 🛠️ **Tools & Platforms**
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> Bash
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="kali-linux" width="40" height="40"/> Kali Linux
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="kali-linux" width="40" height="40"/> Kali Linux
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux
 
 #### 🗄️ **Databases**
