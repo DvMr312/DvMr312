@@ -54,7 +54,6 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvmr312&theme=dracula&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=50FA7B" alt="GitHub Streak" />
 </p>
 
-
 ---
 
 ### 🏆 GitHub Trophy
