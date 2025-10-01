@@ -58,6 +58,10 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dvmr312&show_icons=true&theme=radical&border_color=ff4b69&bg_color=0D0D0D&title_color=ff6b81&icon_color=ffb86b" alt="dvmr312 GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvmr312&theme=radical&background=0D0D0D&ring=ff6b81&fire=ffb86b&currStreakLabel=ff6b81" alt="dvmr312 Streak" /> </p> ```
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dvmr312&show_icons=true&theme=tokyonight&border_color=89ddff&bg_color=0d1117&title_color=89ddff&icon_color=ff9e64" alt="dvmr312 GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvmr312&theme=tokyonight&background=0D1117&ring=89ddff&fire=c792ea&currStreakLabel=89ddff" alt="GitHub Streak" /> </p> ```
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dvmr312&show_icons=true&theme=gruvbox&border_color=d79921&bg_color=1d2021&title_color=d79921&icon_color=458588" alt="dvmr312 GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvmr312&theme=gruvbox&background=1D2021&ring=d79921&fire=fe8019&currStreakLabel=458588" alt="GitHub Streak" /> </p> ```
+
 ### 🏆 GitHub Trophy
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
