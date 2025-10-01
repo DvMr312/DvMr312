@@ -32,7 +32,7 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
 #### 🛠️ **Tools & Platforms**
 <div>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="kali-linux" width="40" height="40"/> Kali Linux
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="kali-linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
@@ -45,13 +45,15 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
  ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvmr312&show_icons=true&locale=en" alt="dvmr312" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dvmr312&show_icons=true&theme=dracula&border_color=7F3FBF&bg_color=0d1117&title_color=50fa7b&icon_color=bd93f9" alt="dvmr312 GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvmr312&" alt="dvmr312" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvmr312&theme=dracula&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=50FA7B" alt="GitHub Streak" />
 </p>
+
 
 ---
 
