@@ -5,7 +5,11 @@
 ---
 
 ### 🔭 About Me
-I'm a young pentester learning ethical hacking with a goal to explore cybersecurity. Currently working with **Kali Linux**, diving deeper into network security, penetration testing, and vulnerability assessments. I aim to become an expert in the field of cybersecurity.
+I'm Dovan a young pentester learning ethical hacking with a goal to explore cybersecurity. Currently working with **Kali Linux**, diving deeper into network security, penetration testing, and vulnerability assessments. I aim to become an expert in the field of cybersecurity.
+
+Fun Facts:
+- I enjoy shooting sports and traveling 🎯🛫,
+    - Hobbies: Cooking🥞, Gym🏋️, reading📔;
 
 ---
 
