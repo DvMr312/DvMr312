@@ -13,6 +13,7 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
 - **Penetration Testing**  
 - **Web Security**  
 - **Network Security**
+- **Developement**
 
 ---
 
