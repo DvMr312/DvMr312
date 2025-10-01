@@ -56,14 +56,6 @@ I'm a young pentester learning ethical hacking with a goal to explore cybersecur
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=dvmr312&show_icons=true&theme=tokyonight&border_color=89ddff&bg_color=0d1117&title_color=89ddff&icon_color=ff9e64" alt="dvmr312 GitHub stats" /> 
-</p> 
-
----
-
 ### 🏆 GitHub Trophy
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
