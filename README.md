@@ -10,7 +10,8 @@ My name is Dovan, I am a junior penetration tester, currently training in ethica
 
 I enjoy exploring different infrastructures, solving problems in a practical way, learning attack and defense techniques, and documenting clear security recommendations. <br><br>
 
-My goal is to become a cybersecurity engineer specializing in ethical hacking and to contribute to pragmatic, security-focused solutions for systems. <br><br>
+My goal is to become a cybersecurity engineer specializing in ethical hacking and to contribute to pragmatic, security-focused solutions for systems. <br>
+“Open to collaboration, internships, or entry-level opportunities in cybersecurity and ethical hacking.”
 
 Fun Facts:
 - I enjoy shooting sports and traveling 🎯🛫,
