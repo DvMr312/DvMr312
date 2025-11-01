@@ -5,8 +5,12 @@
 ---
 
 ### 🔭 About Me
-Hello there 👋
-I’m Dovan, a junior penetration tester training in ethical hacking and defensive security. I work with Kali Linux and a variety of security tools to perform vulnerability assessments, penetration tests and network security analysis. I enjoy hands-on problem solving, learning attack and defense techniques, and documenting clear remediation recommendations. 
+Hello there 👋 <br>
+My name is Dovan, I am a junior penetration tester, currently training in ethical hacking and defensive security. I mainly work with Kali Linux and various tools such as Cisco Packet Tracer, Looping, and Oracle VirtualBox to perform penetration testing and network security analysis. <br><br>
+
+I enjoy exploring different infrastructures, solving problems in a practical way, learning attack and defense techniques, and documenting clear security recommendations. <br><br>
+
+My goal is to become a cybersecurity engineer specializing in ethical hacking and to contribute to pragmatic, security-focused solutions for systems. <br><br>
 
 Fun Facts:
 - I enjoy shooting sports and traveling 🎯🛫,
