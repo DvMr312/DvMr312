@@ -12,7 +12,7 @@ I enjoy exploring different infrastructures, solving problems in a practical way
 
 My goal is to become a cybersecurity engineer specializing in ethical hacking and to contribute to pragmatic, security-focused solutions for systems. <br><br>
 
-“Open to collaboration, internships, or entry-level opportunities in cybersecurity and ethical hacking.”
+<em> “Open to collaboration, internships, or entry-level opportunities in cybersecurity and ethical hacking.” </em>
 
 Fun Facts:
 - I enjoy shooting sports and traveling 🎯🛫,
