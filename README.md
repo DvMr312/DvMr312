@@ -5,7 +5,8 @@
 ---
 
 ### 🔭 About Me
-I'm Dovan a young pentester learning ethical hacking with a goal to explore cybersecurity. Currently working with **Kali Linux**, diving deeper into network security, penetration testing, and vulnerability assessments. I aim to become an expert in the field of cybersecurity.
+Hello there 👋
+I’m Dovan, a junior penetration tester training in ethical hacking and defensive security. I work with Kali Linux and a variety of security tools to perform vulnerability assessments, penetration tests and network security analysis. I enjoy hands-on problem solving, learning attack and defense techniques, and documenting clear remediation recommendations. 
 
 Fun Facts:
 - I enjoy shooting sports and traveling 🎯🛫,
