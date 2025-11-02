@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DvMr312</h1>
-<h3 align="center">A passionate pentester & ethical hacker focused on cybersecurity</h3>
+<h3 align="center">Someone interested in ethical hacking and the world of cybersecurity 🌐</h3>
 <img align="right" alt="eyesbin" width="110" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
 
 ---
